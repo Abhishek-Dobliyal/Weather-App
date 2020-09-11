@@ -7,7 +7,7 @@ import time
 
 def get_info():
     ''' Function to retrieve the location weather info '''
-    API_KEY = '5e19c11d8d2d461ea6bcd6b3a168538f'
+    API_KEY = 'Your API KEY'
     URL = 'https://api.openweathermap.org/data/2.5/weather'
     request_params = {'q':place.get(),'appid':API_KEY}
     # print(place.get())
