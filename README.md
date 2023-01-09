@@ -2,7 +2,7 @@
 
 Simple Weather App written in Python using Tkinter Module.
 
-![]('ScreenShots/Screenshot 2020-05-27 at 11.28.36 AM.png')
+![](ScreenShots/Screenshot&#32;2020-05-27&#32;at&#32;11.28.36&#32;AM.png)
 
 ## Installation and Dependencies
 
