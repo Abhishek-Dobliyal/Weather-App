@@ -2,6 +2,8 @@
 
 Simple Weather App written in Python using Tkinter Module.
 
+![]('ScreenShots/Screenshot 2020-05-27 at 11.28.36 AM.png')
+
 ## Installation and Dependencies
 
 1. [Python](https://www.python.org) Installed.
